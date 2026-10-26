@@ -1,6 +1,5 @@
 ## Hi there 👋
 应企业要求，代码不予公开
-如有公开，定非此企业代码
 <!--
 **Here are some ideas to get you started:**
 
